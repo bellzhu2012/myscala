@@ -18,5 +18,6 @@ object BreakTest {
         println(i)
       }
     }
+   println("test")
   }
 }
